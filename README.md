@@ -8,5 +8,7 @@ The Machine learning is trained on:
 2. Naive Bayes.
 3. Bernoullis Naive Bayes.
 4. SVM
-    
+
+The EDA of dataset is performed which displayes the overall gist of data.
+
 Conclusion: It is found that the highest accuracy is obtained with Logistic Regression. The accuracy obtained is 81%.

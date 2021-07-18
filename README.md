@@ -1,7 +1,7 @@
 # Prediction-of-possibility-of-getting-placed-in-Campus-Drive
 In this project, I have predicted :
-    1. the possibility of students for getting placed in the campus drive.
-    2. the parameters which contributes more for getting placed.
+1. the possibility of students for getting placed in the campus drive.
+2. the parameters which contributes more for getting placed.
     
 The Machine learning is trained on:
     1. Logistic Regression.
